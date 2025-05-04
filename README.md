@@ -13,3 +13,29 @@ Você pode usar uma VM para rodar sistemas operacionais, instalar programas e si
 •	Instalar programas (como num PC comum).
 •	Usar como servidor de sites, bancos de dados, etc.
 •	Parar ou excluir a VM para economizar créditos.
+
+Passos para criar e configurar uma VM no Azure:
+1. Criar uma conta no Azure
+•	Acesse https://azure.com e crie uma conta gratuita.
+•	Você ganha créditos gratuitos para testar os serviços.
+2. Entrar no portal Azure
+•	Vá para https://portal.azure.com e faça login.
+3. Criar uma nova VM
+•	Clique em “Criar um recurso” (no menu à esquerda).
+•	Escolha “Máquina Virtual”.
+4. Preencher as configurações básicas
+•	Nome da VM: qualquer nome que você quiser.
+•	Região: escolha o local do servidor (quanto mais perto de você, melhor).
+•	Sistema operacional: escolha entre Windows ou Linux.
+•	Tamanho: selecione a potência da VM (quanto mais poderosa, mais cara).
+•	Usuário e senha: defina como você vai acessar a VM.
+5. Configurações de rede
+•	Normalmente, o Azure cria uma rede virtual automaticamente.
+•	Você pode manter as opções padrão ou configurar manualmente.
+6. Revisar e criar
+•	Revise todas as configurações.
+•	Clique em “Criar”.
+7. Acessar a VM
+•	Quando estiver pronta, clique em “Conectar”.
+•	Para Windows, use Área de Trabalho Remota (RDP).
+•	Para Linux, use SSH.
