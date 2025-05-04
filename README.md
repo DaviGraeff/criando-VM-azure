@@ -40,7 +40,8 @@ Você pode usar uma VM para rodar sistemas operacionais, instalar programas e si
 •	Para Windows, use Área de Trabalho Remota (RDP).
 •	Para Linux, use SSH.
 
-📚 Recursos Adicionais
+📚 Recursos Adicionais:
+
 •	Tutorial Oficial da Microsoft: Para um guia detalhado com imagens, acesse Início Rápido – Criar uma VM Windows no portal do Azure
   (https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal).
 
