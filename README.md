@@ -41,6 +41,7 @@ Você pode usar uma VM para rodar sistemas operacionais, instalar programas e si
 •	Para Linux, use SSH.
 
 📚 Recursos Adicionais
-•	Tutorial Oficial da Microsoft: Para um guia detalhado com imagens, acesse Início Rápido – Criar uma VM Windows no portal do Azure (https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal).
+•	Tutorial Oficial da Microsoft: Para um guia detalhado com imagens, acesse Início Rápido – Criar uma VM Windows no portal do Azure
+  (https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal).
 
 
